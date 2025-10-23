@@ -3,6 +3,7 @@ import Layout from "@/components/layout/Layout"
 import Hero2 from "@/components/sections/Hero2"
 import EditorPicked2 from "@/components/sections/EditorPicked2"
 import HealthInfo from "@/components/sections/HealthInfo"
+import SocialChat from "@/components/sections/SocialChat"
 
 export default function Home() {
     return (
@@ -39,6 +40,9 @@ export default function Home() {
 
                 {/* Additional Info Section - Layer 3 */}
                 <HealthInfo />
+
+                {/* Social Chat Section - Layer 4 */}
+                <SocialChat />
             </Layout>
         </>
     )
