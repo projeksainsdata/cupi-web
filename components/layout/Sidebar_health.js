@@ -122,7 +122,7 @@ const Sidebar = ({ openClass }) => {
                         <div className="list-comments">
                             {testimonials.map((item, i) => (
                                 <div className="item-comment border-gray-800 wow animate__animated animate__fadeIn" data-wow-delay={`${i / 10}s`} key={i}>
-                                    <p className="color-gray-500 mb-20">"{item.content}"</p>
+                                    <p className="color-gray-500 mb-20">&ldquo;{item.content}&rdquo;</p>
                                     <div className="box-author-small">
                                         <div style={{
                                             width: '32px',

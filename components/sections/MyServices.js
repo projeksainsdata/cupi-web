@@ -17,7 +17,7 @@ const MyServices = () => {
                             <br />
                             Web Graphy
                         </h5>
-                        <p className="text-base color-gray-700">NetTracking" is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
+                        <p className="text-base color-gray-700">NetTracking&rdquo; is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-50 wow animate__animated animate__fadeIn" data-wow-delay="0.1s">
                         <span className="item-icon bg-gray-950 icon-ui" />
@@ -26,7 +26,7 @@ const MyServices = () => {
                             <br />
                             Consultancy
                         </h5>
-                        <p className="text-base color-gray-700">NetTracking" is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
+                        <p className="text-base color-gray-700">NetTracking&rdquo; is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-50 wow animate__animated animate__fadeIn" data-wow-delay="0.2s">
                         <span className="item-icon bg-gray-950 icon-branding" />
@@ -35,7 +35,7 @@ const MyServices = () => {
                             <br />
                             &amp; Design
                         </h5>
-                        <p className="text-base color-gray-700">NetTracking" is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
+                        <p className="text-base color-gray-700">NetTracking&rdquo; is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-50 wow animate__animated animate__fadeIn" data-wow-delay="0s">
                         <span className="item-icon bg-gray-950 icon-product" />
@@ -44,7 +44,7 @@ const MyServices = () => {
                             <br />
                             Photography
                         </h5>
-                        <p className="text-base color-gray-700">NetTracking" is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
+                        <p className="text-base color-gray-700">NetTracking&rdquo; is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-50 wow animate__animated animate__fadeIn" data-wow-delay="0.1s">
                         <span className="item-icon bg-gray-950 icon-key" />
@@ -53,7 +53,7 @@ const MyServices = () => {
                             <br />
                             Optimization
                         </h5>
-                        <p className="text-base color-gray-700">NetTracking" is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
+                        <p className="text-base color-gray-700">NetTracking&rdquo; is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
                     </div>
                     <div className="col-lg-4 col-md-6 mb-50 wow animate__animated animate__fadeIn" data-wow-delay="0.2s">
                         <span className="item-icon bg-gray-950 icon-social" />
@@ -62,7 +62,7 @@ const MyServices = () => {
                             <br />
                             Management
                         </h5>
-                        <p className="text-base color-gray-700">NetTracking" is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
+                        <p className="text-base color-gray-700">NetTracking&rdquo; is a very powerful Web 2.0 site search engine allows you to find email allerts</p>
                     </div>
                 </div>
             </div>
