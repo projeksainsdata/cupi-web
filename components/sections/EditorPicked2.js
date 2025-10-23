@@ -88,10 +88,10 @@ const EditorPicked2 = () => {
                                         Mulai Konsultasi Gratis
                                         <i className="fi-rr-comment-alt ms-10" />
                                     </ChatTrigger>
-                                    <Link className="btn btn-outline-white btn-lg" href="/about">
+                                    {/* <Link className="btn btn-outline-white btn-lg" href="/about">
                                         Pelajari Lebih Lanjut
                                         <i className="fi-rr-arrow-small-right ms-10" />
-                                    </Link>
+                                    </Link> */}
                                 </div>
                             </div>
                         </div>
